@@ -17,11 +17,11 @@ panorama_823DC212_8BD9_2280_41DE_09D1E707775A.label = Loft 01 (9 of 9)-Edit
 panorama_823DF1DC_8BD9_2180_41DB_959EC791A0B0.label = Loft 01 (7 of 9)-Edit
 panorama_823E0A05_8BD9_2281_41DF_D84036A0411D.label = Loft 01 (8 of 9)-Edit
 panorama_823E1849_8BD9_6E80_41D0_B44199D2635E.label = Loft 01 (4 of 9)-Edit
-panorama_823E1905_8BD9_6E80_41DC_D1462308E7D5.label = Loft 01 (6 of 9)-Edit
 panorama_823E2075_8BD9_7E80_41C8_4B079C7C5113.label = Loft 01 (5 of 9)-Edit
 
 ## Action
 
 ### URL
+LinkBehaviour_911AD60B_8BDB_2280_41D8_3A77352896D4.source = www.bsfoto.com.br
 LinkBehaviour_98DDE183_8BF9_2180_41D3_4DA3B8FC50EF.source = www.bsfoto.com.br
 LinkBehaviour_9CD8FD16_8BEA_E680_41D2_11104A23B75C.source = www.bsfoto.com.br
