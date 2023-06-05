@@ -38,8 +38,8 @@
    "src": "misc/icon64.png"
   }
  ],
- "background_color": "#FFFFFF",
- "display": "fullscreen",
  "theme_color": "#FFFFFF",
- "start_url": "index.htm"
+ "display": "fullscreen",
+ "start_url": "index.htm",
+ "background_color": "#FFFFFF"
 }
