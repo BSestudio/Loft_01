@@ -1,0 +1,21 @@
+#: locale=pt
+
+## Tour
+
+### Description
+tour.description = Tour Virtual
+
+### Title
+tour.name = Loft 05 - B house 561 - Sorocaba
+
+## Media
+
+### Title
+panorama_810B05B2_8BD9_2180_41D4_AB6CDA95EC25.label = Loft 01 (1 of 9)-Edit
+panorama_82335FB0_8BD9_2180_41C1_9E01B32DDAB6.label = Loft 01 (2 of 9)-Edit
+panorama_823DC212_8BD9_2280_41DE_09D1E707775A.label = Loft 01 (9 of 9)-Edit
+panorama_823DF1DC_8BD9_2180_41DB_959EC791A0B0.label = Loft 01 (7 of 9)-Edit
+panorama_823E0A05_8BD9_2281_41DF_D84036A0411D.label = Loft 01 (8 of 9)-Edit
+panorama_823E1849_8BD9_6E80_41D0_B44199D2635E.label = Loft 01 (4 of 9)-Edit
+panorama_823E1905_8BD9_6E80_41DC_D1462308E7D5.label = Loft 01 (6 of 9)-Edit
+panorama_823E2075_8BD9_7E80_41C8_4B079C7C5113.label = Loft 01 (5 of 9)-Edit
