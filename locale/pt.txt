@@ -22,6 +22,8 @@ panorama_823E2075_8BD9_7E80_41C8_4B079C7C5113.label = Loft 01 (5 of 9)-Edit
 ## Action
 
 ### URL
+LinkBehaviour_9098A27A_8BD9_6280_41C2_AB048585043C.source = www.bsfoto.com.br
 LinkBehaviour_911AD60B_8BDB_2280_41D8_3A77352896D4.source = www.bsfoto.com.br
+LinkBehaviour_9148F948_8BDB_2E80_41D2_DA5FDF057BC0.source = www.bsfoto.com.br
 LinkBehaviour_98DDE183_8BF9_2180_41D3_4DA3B8FC50EF.source = www.bsfoto.com.br
 LinkBehaviour_9CD8FD16_8BEA_E680_41D2_11104A23B75C.source = www.bsfoto.com.br
