@@ -22,8 +22,9 @@ panorama_835A88CD_8C50_0F6C_41E1_056BE11067C5.label = Loft 01 (1 of 9)-Edit
 ## Action
 
 ### URL
-LinkBehaviour_9098A27A_8BD9_6280_41C2_AB048585043C.source = www.bsfoto.com.br
-LinkBehaviour_911AD60B_8BDB_2280_41D8_3A77352896D4.source = www.bsfoto.com.br
-LinkBehaviour_9148F948_8BDB_2E80_41D2_DA5FDF057BC0.source = www.bsfoto.com.br
-LinkBehaviour_98DDE183_8BF9_2180_41D3_4DA3B8FC50EF.source = www.bsfoto.com.br
-LinkBehaviour_9CD8FD16_8BEA_E680_41D2_11104A23B75C.source = www.bsfoto.com.br
+LinkBehaviour_80989E80_8E16_F595_41DF_FC11C6F2D0CB.source = https://www.bsfotopublicitaria.com.br/
+LinkBehaviour_9098A27A_8BD9_6280_41C2_AB048585043C.source = https://www.bsfotopublicitaria.com.br/
+LinkBehaviour_911AD60B_8BDB_2280_41D8_3A77352896D4.source = https://www.bsfotopublicitaria.com.br/
+LinkBehaviour_9148F948_8BDB_2E80_41D2_DA5FDF057BC0.source = https://www.bsfotopublicitaria.com.br/
+LinkBehaviour_98DDE183_8BF9_2180_41D3_4DA3B8FC50EF.source = https://www.bsfotopublicitaria.com.br/
+LinkBehaviour_9CD8FD16_8BEA_E680_41D2_11104A23B75C.source = https://www.bsfotopublicitaria.com.br/
