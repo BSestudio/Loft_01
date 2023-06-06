@@ -11,13 +11,13 @@ tour.name = Loft 05 - B house 561 - Sorocaba
 ## Media
 
 ### Title
-panorama_82B1023A_8C50_0337_41C5_B1888626D1F6.label = Loft 01 (4 of 9)-Edit
-panorama_82B37BAE_8C50_012C_41CE_DECCA435BD5C.label = Loft 01 (7 of 9)-Edit
-panorama_82B8FCFF_8C50_072C_41D2_F53D2BD9BE1D.label = Loft 01 (5 of 9)-Edit
-panorama_82BBCA33_8C50_0335_41DC_9ACCF7C0BF8D.label = Loft 01 (9 of 9)-Edit
-panorama_834602A6_8C50_03DF_41D6_348B154F1EDC.label = Loft 01 (2 of 9)-Edit
-panorama_834BBC52_8C50_0777_41D1_F30A4CB08AEE.label = Loft 01 (8 of 9)-Edit
-panorama_835A88CD_8C50_0F6C_41E1_056BE11067C5.label = Loft 01 (1 of 9)-Edit
+panorama_81959FCB_8E3E_53AA_419C_7DBB04E2E8FC.label = Loft 01 (7 of 9)-Edit
+panorama_8196BCC1_8E3E_5597_41D2_7AD9FCCC57E0.label = Loft 01 (5 of 9)-Edit
+panorama_819CBB1C_8E39_DCAD_4179_C15A0775F675.label = Loft 01 (8 of 9)-Edit
+panorama_81DA5433_8E3E_D4FB_41B7_F8BBAC8A1F86.label = Loft 01 (2 of 9)-Edit
+panorama_81E65B88_8E3E_5394_41D0_CDC5D1E672BE.label = Loft 01 (1 of 9)-Edit
+panorama_81E9BC51_8E39_D4B4_41BC_1CFD88688734.label = Loft 01 (9 of 9)-Edit
+panorama_9E2B76B6_8E3E_D5FD_41B7_AC37FB45C840.label = Loft 01 (4 of 9)-Edit
 
 ## Action
 
