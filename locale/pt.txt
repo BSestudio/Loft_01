@@ -6,7 +6,7 @@
 tour.description = Tour Virtual
 
 ### Title
-tour.name = Loft 05 - B house 561 - Sorocaba
+tour.name = Loft 01 - B house 561 - Sorocaba
 
 ## Media
 

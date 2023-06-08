@@ -1,6 +1,4 @@
 {
- "name": "Loft 05 - B house 561 - Sorocaba",
- "description": "Tour Virtual",
  "icons": [
   {
    "type": "image/png",
@@ -38,8 +36,10 @@
    "src": "misc/icon64.png"
   }
  ],
- "background_color": "#FFFFFF",
- "theme_color": "#FFFFFF",
+ "name": "Loft 01 - B house 561 - Sorocaba",
  "start_url": "index.htm",
- "display": "fullscreen"
+ "display": "fullscreen",
+ "theme_color": "#FFFFFF",
+ "background_color": "#FFFFFF",
+ "description": "Tour Virtual"
 }
