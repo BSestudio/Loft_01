@@ -8,9 +8,48 @@ tour.description = Tour Virtual
 ### Title
 tour.name = Loft 01 - B house 561 - Sorocaba
 
+## Skin
+
+### Button
+Button_03D37B27_0C7A_63B3_41A1_89572D8C8762.label = INFORMAÇÕES
+Button_03D37B27_0C7A_63B3_41A1_89572D8C8762_mobile.label = INFORMAÇÕES
+Button_18126A3F_1663_8BEF_41A4_B0EDA1A5F4E3.label = BOOK NOW
+Button_18126A3F_1663_8BEF_41A4_B0EDA1A5F4E3_mobile.label = BOOK NOW
+Button_1CA392FC_0C0A_2295_41A3_18DEA65FB6AD.label = LOCALIZAÇÃO
+Button_1CA392FC_0C0A_2295_41A3_18DEA65FB6AD_mobile.label = LOCALIZAÇÃO
+Button_1EBF3282_0C0A_1D6D_4190_52FC7F8C00A5.label = FOTOS
+Button_1EBF3282_0C0A_1D6D_4190_52FC7F8C00A5_mobile.label = FOTOS
+Button_B599FFFA_BA10_EB3E_41E1_18AC691C2F0B.label = FAÇA SUA RESERVA
+Button_B599FFFA_BA10_EB3E_41E1_18AC691C2F0B_mobile.label = FAÇA SUA RESERVA
+
+### Multiline Text
+HTMLText_04FFCC2C_1216_7593_41A3_D345BDE131A2.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:9.180327868852466vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:9.18vh;font-family:'Otama.ep';"><B>Chacara</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:9.180327868852466vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:9.18vh;font-family:'Otama.ep';"><B>Bhouse 561</B></SPAN></SPAN></DIV></div>
+HTMLText_04FFCC2C_1216_7593_41A3_D345BDE131A2_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:9.180327868852466vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:9.18vh;font-family:'Otama.ep';"><B>Chacara</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:9.180327868852466vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:9.18vh;font-family:'Otama.ep';"><B>Bhouse 561</B></SPAN></SPAN></DIV></div>
+HTMLText_18123A3E_1663_8BF1_419F_B7BD72D2053B.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:5.629999999999995vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.63vh;font-family:'Otama.ep';">HOUSE</SPAN></SPAN></DIV></div>
+HTMLText_18123A3E_1663_8BF1_419F_B7BD72D2053B_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:5.629999999999995vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.63vh;font-family:'Otama.ep';">HOUSE</SPAN></SPAN></DIV></div>
+HTMLText_18125A3F_1663_8BEF_4196_AE566E10BAFC.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:6.879999999999992vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.88vh;font-family:'Otama.ep';"><B>LOCATION</B></SPAN></SPAN></DIV></div>
+HTMLText_18125A3F_1663_8BEF_4196_AE566E10BAFC_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:6.879999999999992vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.88vh;font-family:'Otama.ep';"><B>LOCATION</B></SPAN></SPAN></DIV></div>
+HTMLText_18127A3F_1663_8BEF_4175_B0DF8CE38BFE.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.2699999999999996vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#99bb1b;font-size:2.27vh;font-family:'Antonio';"><B>LOREM IPSUM DOLOR SIT AMET, CONSECTETUR ADIPISCING ELIT. MAECENAS CONGUE EROS MAGNA, ID BIBENDUM EROS MALESUADA VITAE.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.59vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.7vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.5599999999999994vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.56vh;font-family:'Open Sans Semibold';">Address:</SPAN><SPAN STYLE="color:#999999;font-size:1.56vh;font-family:'Open Sans Semibold';"> line 1</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.5599999999999994vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.56vh;font-family:'Open Sans Semibold';">Address:</SPAN><SPAN STYLE="color:#999999;font-size:1.56vh;font-family:'Open Sans Semibold';"> line 2</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.5599999999999994vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.56vh;font-family:'Open Sans Semibold';">Address:</SPAN><SPAN STYLE="color:#999999;font-size:1.56vh;font-family:'Open Sans Semibold';"> line 3</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.5599999999999994vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.56vh;font-family:'Open Sans Semibold';">GPS:</SPAN><SPAN STYLE="color:#999999;font-size:1.56vh;font-family:'Open Sans Semibold';"> xxxxxxxxxx</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.56vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.7vh;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_18127A3F_1663_8BEF_4175_B0DF8CE38BFE_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.2699999999999996vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#99bb1b;font-size:2.27vh;font-family:'Antonio';"><B>LOREM IPSUM DOLOR SIT AMET, CONSECTETUR ADIPISCING ELIT. MAECENAS CONGUE EROS MAGNA, ID BIBENDUM EROS MALESUADA VITAE.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.59vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.7vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.5599999999999994vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.56vh;font-family:'Open Sans Semibold';">Address:</SPAN><SPAN STYLE="color:#999999;font-size:1.56vh;font-family:'Open Sans Semibold';"> line 1</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.5599999999999994vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.56vh;font-family:'Open Sans Semibold';">Address:</SPAN><SPAN STYLE="color:#999999;font-size:1.56vh;font-family:'Open Sans Semibold';"> line 2</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.5599999999999994vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.56vh;font-family:'Open Sans Semibold';">Address:</SPAN><SPAN STYLE="color:#999999;font-size:1.56vh;font-family:'Open Sans Semibold';"> line 3</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.5599999999999994vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.56vh;font-family:'Open Sans Semibold';">GPS:</SPAN><SPAN STYLE="color:#999999;font-size:1.56vh;font-family:'Open Sans Semibold';"> xxxxxxxxxx</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.56vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.7vh;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_3918BF37_0C06_E393_41A1_17CF0ADBAB12.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.59vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.59vh;font-family:'Otama.ep';"><B>PANORAMA LIST/</B></SPAN></SPAN></DIV></div>
+HTMLText_3918BF37_0C06_E393_41A1_17CF0ADBAB12_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.59vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.59vh;font-family:'Otama.ep';"><B>PANORAMA LIST/</B></SPAN></SPAN></DIV></div>
+HTMLText_9BA831B8_B99D_9FF3_41C0_D517D42D1993.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:15.000000000000002px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:15px;"><B>Nossa estrutura é completa e oferece tudo o que você precisa para uma estadia confortável e agradável. Temos uma suite confortável e espaçosa, sala de estar, cozinha equipada, churrasqueira, playground e piscina com prainha para crianças.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:15px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:15.000000000000002px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:15px;"><B>Além disso, nossa equipe está à disposição para ajudá-lo em tudo o que precisar durante a sua estadia. </B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:15px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:15.000000000000002px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:15px;"><B>Não perca mais tempo procurando um lugar para relaxar e desfrutar da natureza. Reserve agora a nossa chácara e comece a criar memórias inesquecíveis com aqueles que ama. Estamos ansiosos para recebê-lo!</B></SPAN></SPAN></DIV></div>
+HTMLText_9BA831B8_B99D_9FF3_41C0_D517D42D1993_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:7.500000000000001px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:7.5px;"><B>Nossa estrutura é completa e oferece tudo o que você precisa para uma estadia confortável e agradável. Temos uma suite confortável e espaçosa, sala de estar, cozinha equipada, churrasqueira, playground e piscina com prainha para crianças.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:7.5px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:7.500000000000001px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:7.5px;"><B>Além disso, nossa equipe está à disposição para ajudá-lo em tudo o que precisar durante a sua estadia. </B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:7.5px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:7.500000000000001px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:7.5px;"><B>Não perca mais tempo procurando um lugar para relaxar e desfrutar da natureza. Reserve agora a nossa chácara e comece a criar memórias inesquecíveis com aqueles que ama. Estamos ansiosos para recebê-lo!</B></SPAN></SPAN></DIV></div>
+
+### Tooltip
+IconButton_9A4A6829_BAAA_89FB_41E0_C0F5A8E80890.toolTip = Visite nosso Site
+IconButton_9A4A6829_BAAA_89FB_41E0_C0F5A8E80890_mobile.toolTip = Visite nosso Site
+IconButton_A4BE4B85_BA13_6BCA_41CA_87600B79393B.toolTip = Visite nosso Instagran
+IconButton_A4BE4B85_BA13_6BCA_41CA_87600B79393B_mobile.toolTip = Visite nosso Instagran
+
 ## Media
 
 ### Title
+album_82737FCA_BEF1_D687_41AC_E67F425FF35F.label = Álbum de Fotos DANY-3413-Edit
+album_82737FCA_BEF1_D687_41AC_E67F425FF35F_0.label = DANY-3413-Edit
+album_82737FCA_BEF1_D687_41AC_E67F425FF35F_1.label = DANY-3415-Edit
+album_82737FCA_BEF1_D687_41AC_E67F425FF35F_2.label = DANY-3416-Edit
+album_82737FCA_BEF1_D687_41AC_E67F425FF35F_3.label = DANY-3418-Edit
 panorama_81959FCB_8E3E_53AA_419C_7DBB04E2E8FC.label = Loft 01 (7 of 9)-Edit
 panorama_8196BCC1_8E3E_5597_41D2_7AD9FCCC57E0.label = Loft 01 (5 of 9)-Edit
 panorama_819CBB1C_8E39_DCAD_4179_C15A0775F675.label = Loft 01 (8 of 9)-Edit
@@ -18,13 +57,75 @@ panorama_81DA5433_8E3E_D4FB_41B7_F8BBAC8A1F86.label = Loft 01 (2 of 9)-Edit
 panorama_81E65B88_8E3E_5394_41D0_CDC5D1E672BE.label = Loft 01 (1 of 9)-Edit
 panorama_81E9BC51_8E39_D4B4_41BC_1CFD88688734.label = Loft 01 (9 of 9)-Edit
 panorama_9E2B76B6_8E3E_D5FD_41B7_AC37FB45C840.label = Loft 01 (4 of 9)-Edit
+photo_871EA12B_BEF1_4B86_41D4_764988942E31.label = LOFT 01-8159-Edit
+photo_871EA12B_BEF1_4B86_41D4_764988942E31.label = LOFT 01-8159-Edit
+photo_89277462_BEF1_4986_41D4_06B40E754ABD.label = LOFT 01-8160
+photo_89277462_BEF1_4986_41D4_06B40E754ABD.label = LOFT 01-8160
+photo_89278996_BEF2_BA8E_41D2_912D6F7A9EBD.label = LOFT 01-8162-Edit
+photo_89278996_BEF2_BA8E_41D2_912D6F7A9EBD.label = LOFT 01-8162-Edit
+photo_89278EDB_BEF2_B685_41DE_4AAFA6EDDF4E.label = LOFT 01-8164-Edit
+photo_89278EDB_BEF2_B685_41DE_4AAFA6EDDF4E.label = LOFT 01-8164-Edit
+photo_89278F63_BEF2_D786_41E4_36AED0882D85.label = LOFT 01-8173-Edit
+photo_89278F63_BEF2_D786_41E4_36AED0882D85.label = LOFT 01-8173-Edit
+photo_8927A6F9_BEF2_D682_41B6_64F8C1013513.label = pani_edit
+photo_8927A6F9_BEF2_D682_41B6_64F8C1013513.label = pani_edit
+photo_8927B6B5_BEF2_B682_41E4_AD17F32B44D3.label = untitled shoot-0642
+photo_8927B6B5_BEF2_B682_41E4_AD17F32B44D3.label = untitled shoot-0642
+photo_8927B706_BEF2_B78E_41B6_7C10D6E8B4C2.label = LOFT 01-8161-Edit
+photo_8927B706_BEF2_B78E_41B6_7C10D6E8B4C2.label = LOFT 01-8161-Edit
+photo_8927BC36_BEF2_B98E_41CF_F9BEC9CC2C41.label = LOFT 01-8163-Edit
+photo_8927BC36_BEF2_B98E_41CF_F9BEC9CC2C41.label = LOFT 01-8163-Edit
+photo_8927C199_BEF2_CA82_41B4_CE46158420CC.label = untitled shoot-0637
+photo_8927C199_BEF2_CA82_41B4_CE46158420CC.label = untitled shoot-0637
+photo_8927CBF0_BEF2_DE82_41E2_B6928DD3FBBC.label = untitled shoot-0635
+photo_8927CBF0_BEF2_DE82_41E2_B6928DD3FBBC.label = untitled shoot-0635
+photo_8927CCCF_BEF2_DA9D_41B0_D6225CA6E803.label = LOFT 01-8172-Edit
+photo_8927CCCF_BEF2_DA9D_41B0_D6225CA6E803.label = LOFT 01-8172-Edit
+photo_8927CE05_BEF2_F98D_41E5_13595BB4AEB8.label = LOFT 01-8184
+photo_8927CE05_BEF2_F98D_41E5_13595BB4AEB8.label = LOFT 01-8184
+photo_8927D0A9_BEF2_CA82_41DB_5729704AF517.label = LOFT 01-8192-Edit
+photo_8927D0A9_BEF2_CA82_41DB_5729704AF517.label = LOFT 01-8192-Edit
+photo_8927D16D_BEF2_CB82_41C9_EF65D9DEE1F0.label = LOFT 01-8165-Edit
+photo_8927D16D_BEF2_CB82_41C9_EF65D9DEE1F0.label = LOFT 01-8165-Edit
+photo_8927D279_BEF2_C982_41E6_39F01A24B075.label = LOFT 01-8174-Edit
+photo_8927D279_BEF2_C982_41E6_39F01A24B075.label = LOFT 01-8174-Edit
+photo_8927D6D4_BEF2_D682_41D6_312655E07B55.label = LOFT 01-8169-Edit
+photo_8927D6D4_BEF2_D682_41D6_312655E07B55.label = LOFT 01-8169-Edit
+photo_8927E417_BEF2_C98E_41AE_8FC4A4AD08BF.label = untitled shoot-0641-Edit
+photo_8927E417_BEF2_C98E_41AE_8FC4A4AD08BF.label = untitled shoot-0641-Edit
+photo_8927E954_BEF2_DB83_41DD_53974D08ACBE.label = untitled shoot-0634
+photo_8927E954_BEF2_DB83_41DD_53974D08ACBE.label = untitled shoot-0634
+photo_8927F3B5_BEF2_CE82_41D8_2082FA038814.label = LOFT 01-8194-Pano-Edit
+photo_8927F3B5_BEF2_CE82_41D8_2082FA038814.label = LOFT 01-8194-Pano-Edit
+photo_8927F41C_BEF2_C983_41E1_71532A663E78.label = LOFT 01-8168-Edit
+photo_8927F41C_BEF2_C983_41E1_71532A663E78.label = LOFT 01-8168-Edit
+photo_8927F519_BEF2_CB82_41D5_0C2F248837F5.label = LOFT 01-8176-Edit
+photo_8927F519_BEF2_CB82_41D5_0C2F248837F5.label = LOFT 01-8176-Edit
+photo_8927F7E2_BEF2_F686_41D2_8BD009F0B93F.label = LOFT 01-8177
+photo_8927F7E2_BEF2_F686_41D2_8BD009F0B93F.label = LOFT 01-8177
+photo_8927FA17_BEF2_D98E_41E0_F72A1C2F71AF.label = LOFT 01-8170-Edit
+photo_8927FA17_BEF2_D98E_41E0_F72A1C2F71AF.label = LOFT 01-8170-Edit
+photo_8927FAA7_BEF2_FE8D_41D7_2B61DC434E9A.label = LOFT 01-8179-Edit
+photo_8927FAA7_BEF2_FE8D_41D7_2B61DC434E9A.label = LOFT 01-8179-Edit
+photo_8927FE99_BEF2_D682_41C1_652B023D25BD.label = untitled shoot-0636
+photo_8927FE99_BEF2_D682_41C1_652B023D25BD.label = untitled shoot-0636
 
 ## Action
 
 ### URL
 LinkBehaviour_80989E80_8E16_F595_41DF_FC11C6F2D0CB.source = https://www.bsfotopublicitaria.com.br/
+LinkBehaviour_849D7132_BEF2_CB87_41B7_77E07A8A1776.source = https://www.instagram.com/bhouse.561/
+LinkBehaviour_849DD130_BEF2_CB83_41DE_02043D99C9BE.source = https://www.google.com.br/maps/place/Bhouse+561+-+Sua+Hospedagem+em+Sorocaba+e+Ara%C3%A7oiaba+da+Serra/@-23.5093936,-47.482708,17z/data=!3m1!4b1!4m14!1m7!3m6!1s0x94c58bffde706b01:0x528c42124ce38e61!2sBhouse+561+-+Sua+Hospedagem+em+Sorocaba+e+Ara%C3%A7oiaba+da+Serra!8m2!3d-23.5093986!4d-47.4778371!16s%2Fg%2F11txrw2t6h!3m5!1s0x94c58bffde706b01:0x528c42124ce38e61!8m2!3d-23.5093986!4d-47.4778371!16s%2Fg%2F11txrw2t6h?entry=ttu
+LinkBehaviour_849EF133_BEF2_CB85_41C6_434D8EDFB90F.source = https://www.airbnb.com.br/users/83584533/listings?user_id=83584533&amp;s=13
+LinkBehaviour_849F7131_BEF2_CB85_41E0_CF7369C8C2AE.source = https://airbnb.com/h/bhouse001
+LinkBehaviour_849FF14B_BEF2_CB85_41AD_0003320A7563.source = http://www.loremipsum.com
 LinkBehaviour_9098A27A_8BD9_6280_41C2_AB048585043C.source = https://www.bsfotopublicitaria.com.br/
 LinkBehaviour_911AD60B_8BDB_2280_41D8_3A77352896D4.source = https://www.bsfotopublicitaria.com.br/
 LinkBehaviour_9148F948_8BDB_2E80_41D2_DA5FDF057BC0.source = https://www.bsfotopublicitaria.com.br/
+LinkBehaviour_984646C3_BA71_5D4E_41B8_9BAE93235606.source = https://www.instagram.com/bhouse.561/
 LinkBehaviour_98DDE183_8BF9_2180_41D3_4DA3B8FC50EF.source = https://www.bsfotopublicitaria.com.br/
+LinkBehaviour_996599AD_BAE6_8AFB_41DF_C7546ABB3D29.source = https://www.airbnb.com.br/users/83584533/listings?user_id=83584533&amp;s=13
 LinkBehaviour_9CD8FD16_8BEA_E680_41D2_11104A23B75C.source = https://www.bsfotopublicitaria.com.br/
+LinkBehaviour_AA785FFD_B9BC_836D_41E1_81B54892AACD.source = http://www.loremipsum.com
+LinkBehaviour_AA786FFD_B9BC_836D_41E6_9FF7FE9D297A.source = https://www.google.com.br/maps/place/Bhouse+561+-+Sua+Hospedagem+em+Sorocaba+e+Ara%C3%A7oiaba+da+Serra/@-23.5093936,-47.482708,17z/data=!3m1!4b1!4m14!1m7!3m6!1s0x94c58bffde706b01:0x528c42124ce38e61!2sBhouse+561+-+Sua+Hospedagem+em+Sorocaba+e+Ara%C3%A7oiaba+da+Serra!8m2!3d-23.5093986!4d-47.4778371!16s%2Fg%2F11txrw2t6h!3m5!1s0x94c58bffde706b01:0x528c42124ce38e61!8m2!3d-23.5093986!4d-47.4778371!16s%2Fg%2F11txrw2t6h?entry=ttu
+LinkBehaviour_AAD4F895_BA11_55CB_41CD_824BB91FA9C2.source = https://airbnb.com/h/bhouse001
